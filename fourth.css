@@ -1,0 +1,8 @@
+.rain{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border-radius: 0 50px 50px 50px;
+    transform: rotate(45deg);
+    margin: 100px;
+}
